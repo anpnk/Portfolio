@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "ad5ee40b",
+   "id": "5c876f46",
    "metadata": {},
    "source": [
     "# Portfolio\n",
@@ -19,7 +19,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "3b75b42e",
+   "id": "7275a404",
    "metadata": {},
    "outputs": [],
    "source": []
