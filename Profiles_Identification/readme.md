@@ -1,6 +1,6 @@
 # Выявление профилей потребления <br/>для интернет-магазина товаров для дома и быта
 
-[md](...в разработке)    [ipynb](https://github.com/anpnk/Portfolio/blob/main/Profiles_Identification/prj_final_git.ipynb)
+[md](https://github.com/anpnk/Portfolio/blob/main/Profiles_Identification/prj_final_git.md)    [ipynb](https://github.com/anpnk/Portfolio/blob/main/Profiles_Identification/prj_final_git.ipynb)
 
 ## Описание проекта
 
