@@ -13,6 +13,8 @@
 - **python**
 - **pandas**
 - **numpy**
+- **scipy**
+- **matplotlib**
 
 ## Вывод
 
